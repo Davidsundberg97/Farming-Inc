@@ -2,3 +2,4 @@ C:\Users\david\source\repos\Farming Inc\Debug\Farming Inc.exe
 C:\Users\david\source\repos\Farming Inc\Debug\Farming Inc.pdb
 C:\GitHub\Farming-Inc\Farming Inc\Debug\Farming Inc.exe
 C:\GitHub\Farming-Inc\Farming Inc\Debug\Farming Inc.pdb
+C:\Users\fredr\Documents\GitHub\Farming-Inc\Farming Inc\Debug\Farming Inc.exe
