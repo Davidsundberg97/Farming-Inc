@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //Fredrik was here
+//David was here
 //Creates the class Tractors and what it should contain 
 class Tractors {
 public:
